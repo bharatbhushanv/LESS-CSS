@@ -1,0 +1,66 @@
+.bg-gradient {
+  background: #ed6803;
+  background: -moz-linear-gradient(top, #ed6803 0%, rgba(255, 137, 94, 0.91) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #ed6803), color-stop(100%, rgba(255, 137, 94, 0.91)));
+  background: -webkit-linear-gradient(top, #ed6803 0%, rgba(255, 137, 94, 0.91) 100%);
+  background: -o-linear-gradient(top, #ed6803 0%, rgba(255, 137, 94, 0.91) 100%);
+  background: -ms-linear-gradient(top, #ed6803 0%, rgba(255, 137, 94, 0.91) 100%);
+  background: linear-gradient(to bottom, #ed6803 0%, rgba(255, 137, 94, 0.91) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed6803', endColorstr='#ff895e', GradientType=0);
+}
+nav {
+  background-color: #ef5025;
+}
+nav .navbar-brand {
+  color: #fff;
+  font-size: 35px;
+}
+nav .navbar-brand:hover {
+  color: black;
+}
+.navbar-nav .nav-link {
+  color: #fff;
+}
+.jumbotron-section {
+  margin: 0px;
+}
+.jumbotron-section .jumbotron {
+  background-color: #FF7F50;
+  color: #fff;
+}
+.h-services,
+.h-services-2 {
+  margin: 0px;
+  float: left;
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+.h-services .h-service-icon {
+  font-size: 40px;
+  text-align: center;
+  color: #FF7F50;
+}
+.h-services h2 {
+  font-size: 25px;
+  text-align: center;
+  font-weight: 600;
+}
+.h-services:hover,
+.h-services:hover .h-service-icon {
+  background-color: #FF7F50;
+  color: #fff;
+}
+.h-services-2 {
+  background-color: #FF7F50;
+  color: #fff;
+}
+.h-services-2 .h-service-icon {
+  color: #fff;
+}
+.h-services-2:hover,
+.h-services-2:hover .h-service-icon {
+  background-color: #fff;
+  color: black;
+}
