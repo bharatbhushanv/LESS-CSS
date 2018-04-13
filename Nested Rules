@@ -1,1 +1,1 @@
-Nested rules is a group of CSS properties which allows using properties of one class into another class and includes the class name as its properties. In LESS you can declare mixin in the same way as CSS style using class or id selector. Is is store a multiple values you can use any where you want to use.
+
